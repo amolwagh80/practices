@@ -2,3 +2,5 @@ step01:- sample file to test step 01 in git
 
 step02:- sample for check differ
 
+step03:- git merge branch / addition
+
